@@ -64,3 +64,9 @@
   margin-top: 20px;
 }
 /* /corpo della pagina */
+
+.footer{
+  height: 75px;
+  margin-top: -15px;
+  background-color: rgb(136, 1, 254);
+}
