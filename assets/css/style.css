@@ -15,6 +15,7 @@
   margin: 25px auto;
 }
 
+/* header */
 .header{
   height: 100px;
   background-color: rgb(229, 121, 230);
@@ -25,3 +26,41 @@
   margin: 25px auto;
   background-color: rgb(225, 214, 122);
 }
+/* /header */
+
+/* corpo della pagina */
+.main{
+  height: 750px;
+  background-color: rgb(1, 134, 253);
+}
+
+.container .main-header, .left-space, .right-space, .center-space{
+  background-color: rgb(171, 207, 231);
+}
+
+.main-header{
+  height: 75px;
+}
+
+.left-space{
+  float: left;
+  width: 15%;
+  height: 85%;
+  margin-top: 20px;
+}
+
+.center-space{
+  float: left;
+  width: 65%;
+  height: 85%;
+  margin-top: 20px;
+  margin-left: 2.5%;
+}
+
+.right-space{
+  float: right;
+  width: 15%;
+  height: 85%;
+  margin-top: 20px;
+}
+/* /corpo della pagina */
