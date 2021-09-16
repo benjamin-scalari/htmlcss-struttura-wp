@@ -9,3 +9,19 @@
   display: table;
   clear: both;
 }
+
+.container{
+  width: 80%;
+  margin: 25px auto;
+}
+
+.header{
+  height: 100px;
+  background-color: rgb(229, 121, 230);
+}
+
+.jumbotron{
+  height: 500px;
+  margin: 25px auto;
+  background-color: rgb(225, 214, 122);
+}
